@@ -2,6 +2,7 @@
 Counting DNA Nucleotides
 ========================
 
+Source: Rosalind (https://rosalind.info/problems/dna/)
 
 Problem
 -------
