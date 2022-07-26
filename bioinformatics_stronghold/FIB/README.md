@@ -2,6 +2,7 @@
 Rabbits and Recurrence Relations
 ================================
 
+Source: Rosalind (https://rosalind.info/problems/fib/)
 
 Problem
 -------
