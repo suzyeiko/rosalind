@@ -2,6 +2,7 @@
 Transcribing DNA into RNA
 =========================
 
+Source: Rosalind (https://rosalind.info/problems/rna/)
 
 Problem
 -------
