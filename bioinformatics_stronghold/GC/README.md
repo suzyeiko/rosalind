@@ -2,6 +2,7 @@
 Computing GC Content
 ====================
 
+Source: Rosalind (https://rosalind.info/problems/gc/)
 
 Problem
 -------
