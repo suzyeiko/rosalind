@@ -4,7 +4,7 @@ Bioinformatics Stronghold
 
 Each directory refers to a problem from [Rosalind platform](https://rosalind.info/problems/list-view/).
 
-Inside each directory, there is a file named:
+Each directory contains the following files:
 * `README.md`: Description of the problem.
 * `*code.py`: the Python code I implemented to solve the problem.
 * `rosalind_*.txt`: input data used.
