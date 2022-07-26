@@ -2,6 +2,7 @@
 Complementing a Strand of DNA
 =============================
 
+Source: Rosalind (https://rosalind.info/problems/revc/)
 
 Problem
 -------
