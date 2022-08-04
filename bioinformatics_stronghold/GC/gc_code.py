@@ -43,5 +43,5 @@ for x in range(len(seqs)):
     else:
         continue
 
-print highheader
-print highGC
+print(highheader)
+print(highGC)
