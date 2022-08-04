@@ -9,5 +9,5 @@ with open("rosalind_rna.txt") as f:
             rna += "U"
         else: #if a nucleotide is NOT "T", keep it
             rna += nt
-    print rna
+    print(rna)
 f.close()
