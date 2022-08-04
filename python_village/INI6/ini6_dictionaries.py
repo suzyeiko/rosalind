@@ -8,4 +8,4 @@ with open("rosalind_ini6.txt") as f:
         else:
             d[word] = 1
     for key, value in d.items():
-        print key, value
+        print(key, value)
