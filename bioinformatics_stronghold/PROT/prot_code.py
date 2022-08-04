@@ -41,8 +41,8 @@ def convert_rna_to_prot(seq):
             break
         else:
             prot_seq = prot_seq + codon_dict[codon]
-    print prot_seq
     return prot_seq
 
-convert_rna_to_prot(seq)
+result = convert_rna_to_prot(seq)
+print result
 
