@@ -23,6 +23,6 @@ with open("rosalind_revc.txt") as f:
         else:
             revc += nt
 
-    print revc
+    print(revc)
 
 f.close()
