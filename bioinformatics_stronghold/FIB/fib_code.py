@@ -17,6 +17,6 @@ with open(arquivo) as f:
             # Current litter of rabbit pairs equals the sum of the rabbit pairs in the last month + (k * rabbit pairs in the second last month)
             newrabbits = rabbits[month-1] + rabbits[month-2]*k
             rabbits.append(newrabbits)
-    print rabbits[-1]
+    print(rabbits[-1])
 f.close()
 
