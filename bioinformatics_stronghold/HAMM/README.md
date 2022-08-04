@@ -8,7 +8,7 @@ Given two strings $s$ and $t$ of equal length, the Hamming distance between $s$ 
 
 **Given:** Two DNA strings $s$ and $t$ of equal length (not exceeding 1 kbp).
 
-**Return:** The Hamming distance $d<sub>H</sub>(s,t)$.
+**Return:** The Hamming distance $d$<sub>$H$</sub>$(s,t)$.
 
 
 Sample Dataset
