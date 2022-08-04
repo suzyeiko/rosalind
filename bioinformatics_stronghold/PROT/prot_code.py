@@ -35,6 +35,7 @@ def convert_rna_to_prot(seq):
             break
 
     #Work with sequence from starting codon
+    #Get list of all codons ordered in the sequence from starting codon
     codons = [temp_seq[i:i+3] for i in range(0, len(temp_seq), 3)]
     for codon in codons:
         if codon_dict[codon] == 'Stop':
@@ -44,5 +45,5 @@ def convert_rna_to_prot(seq):
     return prot_seq
 
 result = convert_rna_to_prot(seq)
-print result
+print(result)
 
