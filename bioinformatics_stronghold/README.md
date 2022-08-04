@@ -19,6 +19,6 @@ List of assignments:
 * FIB: Rabbits and Recurrence Relations
 * GC: Computing GC Content
 * HAMM: Counting Point Mutations
-* IPRB: 
 * PROT: Translating RNA into Protein
+* IPRB: Mendel's First Law
 
