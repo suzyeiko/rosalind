@@ -12,14 +12,14 @@ with open(arquivo) as f:
     index = []
     
     #Loop for different frames of a string considering the substring length
-    for f in range(len(string)):
-        frame = string[f:]
+    for i in range(len(string)):
+        frame = string[i:]
         # Find all index positions of the substring in the current frame using regular expression
         index_pos = [m.start() for m in re.finditer(sub, frame)]
-        # Verify if the current index position was already added to the list. If not, add it.
-        for i in index_pos:
-            if i+f+1 not in index:
-                index.append(i+f+1)
+        # Verify if the each index position was already added to the list. If not, add it.
+        for j in index_pos:
+            if i+j+1 not in index:
+                index.append(i+j+1)
     #Sort index numbers from lower to higher.
     index.sort()
 
