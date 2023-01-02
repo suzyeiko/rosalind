@@ -1,6 +1,6 @@
 #Import fasta file
-arquivo = "sample_dataset.txt"
-#arquivo = "rosalind_iprb.txt"
+#arquivo = "sample_dataset.txt"
+arquivo = "rosalind_iprb.txt"
 
 # Import file
 with open(arquivo) as f:
@@ -16,6 +16,7 @@ with open(arquivo) as f:
 
 def get_prob_dominant(AA, Aa, aa):
     total = AA+Aa+aa
+
     # Example: AA = 2, Aa = 2, aa = 2
     #X is AA = 2/6  Y is AA = 1/5   (2/6)(1/5) = 1/15
     #               Y is Aa = 2/5   (2/6)(2/5) = 2/15
@@ -68,3 +69,4 @@ def get_prob_dominant(AA, Aa, aa):
 output = get_prob_dominant(AA, Aa, aa)
 print(round(output, 5))
 
+f.close()
