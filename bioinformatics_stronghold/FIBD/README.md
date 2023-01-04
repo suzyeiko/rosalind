@@ -12,7 +12,8 @@ Recall the definition of the Fibonacci numbers from "Rabbits and Recurrence Rela
 Our aim is to somehow modify this recurrence relation to achieve a dynamic programming solution in the case that all rabbits die out after a fixed number of months. See [Figure 4](https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png) for a depiction of a rabbit tree in which rabbits live for three months (meaning that they reproduce only twice before dying).
 
 
-![Figure 4](https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png)
+**Figure 4**
+![Figure 4](https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png | width=100)
 
 
 **Given:** Positive integers $n \leq 100$ and $m \leq 20$.
