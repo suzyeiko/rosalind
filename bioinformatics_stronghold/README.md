@@ -23,3 +23,5 @@ List of assignments:
 * PROT: Translating RNA into Protein
 * SUBS: Finding a Motif in DNA
 * CONS: Consensus and Profile
+* FIBD: Mortal Fibonacci Rabbits
+
