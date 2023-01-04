@@ -13,7 +13,8 @@ Our aim is to somehow modify this recurrence relation to achieve a dynamic progr
 
 
 <figure>
-<a href="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png"><img src="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png" width=400>
+<a href="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png"><img src="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png" width=400> </a>
+
 <figcaption>Figure 4</figcaption>
 </figure>
 
