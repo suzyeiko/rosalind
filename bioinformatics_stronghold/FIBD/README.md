@@ -13,7 +13,7 @@ Our aim is to somehow modify this recurrence relation to achieve a dynamic progr
 
 ---
 <p align="center">
-<b>Figure 4</b><br>
+<b>Figure 4</b>. A figure illustrating the propagation of Fibonacci's rabbits if they die after three months.<br>
 <a href="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png"><img src="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png" width=400 alt="Figure 4"> </a>
 </p>
 
