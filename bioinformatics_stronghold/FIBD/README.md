@@ -13,7 +13,8 @@ Our aim is to somehow modify this recurrence relation to achieve a dynamic progr
 
 
 **Figure 4**
-<img src="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png" width=100>
+
+<img src="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png" width=400>
 
 
 **Given:** Positive integers $n \leq 100$ and $m \leq 20$.
