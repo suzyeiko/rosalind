@@ -15,6 +15,7 @@ Our aim is to somehow modify this recurrence relation to achieve a dynamic progr
 <a href="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png"><img src="https://rosalind.info/media/problems/fibd/mortal_rabbit_tree.png" width=400 alt="Figure 4"> </a>
 
 **Figure 4**
+
 ---
 
 
