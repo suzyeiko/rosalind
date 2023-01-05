@@ -24,4 +24,6 @@ List of assignments:
 * SUBS: Finding a Motif in DNA
 * CONS: Consensus and Profile
 * FIBD: Mortal Fibonacci Rabbits
+* GRPH: Overlap Graphs
+
 
