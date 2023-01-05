@@ -25,5 +25,5 @@ List of assignments:
 * CONS: Consensus and Profile
 * FIBD: Mortal Fibonacci Rabbits
 * GRPH: Overlap Graphs
-
+* IEV: Calculating Expected Offspring
 
