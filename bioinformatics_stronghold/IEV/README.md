@@ -9,7 +9,7 @@ Problem
 
 For a random variable $X$ taking integer values between $1$ and $n$, the **expected value** of $X$ is <img src="https://latex.codecogs.com/svg.image?E(X)=&space;\sum_{k=1}^{n}&space;k&space;\times&space;Pr(X=k)" title="https://latex.codecogs.com/svg.image?E(X)= \sum_{k=1}^{n} k \times Pr(X=k)" /> . The expected value offers us a way of taking the long-term average of a random variable over a large number of trials.
 
-As a motivating example, let $X$ be the number on a six-sided die. Over a large number of rolls, we should expect to obtain an average of 3.5 on the die (even though it's not possible to roll a 3.5). The formula for expected value confirms that <img src="https://latex.codecogs.com/svg.image?E(X)=&space;\sum_{k=1}^{6}&space;\times&space;Pr(X=k)&space;=&space;3.5" title="https://latex.codecogs.com/svg.image?E(X)= \sum_{k=1}^{6} \times Pr(X=k) = 3.5" />.
+As a motivating example, let $X$ be the number on a six-sided die. Over a large number of rolls, we should expect to obtain an average of 3.5 on the die (even though it's not possible to roll a 3.5). The formula for expected value confirms that \[ https://latex.codecogs.com/svg.image?E(X)= \sum_{k=1}^{6} \times Pr(X=k) = 3.5\].
 
 More generally, a random variable for which every one of a number of equally spaced outcomes has the same probability is called a uniform random variable (in the die example, this "equal spacing" is equal to 1). We can generalize our die example to find that if $X$ is a uniform random variable with minimum possible value $a$ and maximum possible value $b$, then $E(X) = \frac{a+b}{2}$. You may also wish to verify that for the dice example, if $Y$ is the random variable associated with the outcome of a second die roll, then $E(X+Y)=7$.
 
